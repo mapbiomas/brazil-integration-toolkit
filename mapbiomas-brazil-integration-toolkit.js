@@ -49,7 +49,7 @@ var description = [
     "| Caatinga          | 5       | Jun 18, 14:10:00      | Soltan            |",
     "| Cerrado           | 16      | Jun 18, 14:10:00      | Barbara           |",
     "| Mata Atlântica    | 83_Sf   | Jun 18, 14:10:00      | Natalia           |",
-    "| Pampa             | 12      | Dez 03, 14:10:00      | Velez             |",
+    "| Pampa             | 13      | Dez 03, 14:10:00      | Velez             |",
     "| Pantanal          | 30      | Jun 18, 14:10:00      | Mariana           |",
     "| Agua              | 1       | Jun 18, 14:10:00      | Bruno             |",
     "| Agricultura       | 9       | Jun 18, 14:10:00      | Paulo             |",
@@ -115,7 +115,7 @@ var App = {
                 'asset_id': 'projects/mapbiomas-brazil/assets/LAND-COVER/COLLECTION-10/GENERAL/classification-pam-ft',
                 'territory': 'PAMPA',
                 'type': 'classification_singleband_collection',
-                'version': '12',
+                'version': '13',
                 'theme': 'PAMPA'
             },
             {
