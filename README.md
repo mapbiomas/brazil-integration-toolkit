@@ -4,6 +4,9 @@
   - Spatial Filter
   - Temporal Filter
   - Add Alertas
+  - Transitions
+  - Deforestation and Secondary Vegetation
+  - Temporaral Analysis On-the-Fly (Number of Classes, Number of Changes, Stable, Age)
 - LULC - 10m Sentinel2
   - [**Integration**](https://github.com/mapbiomas/brazil-integration-toolkit/blob/main/mapbiomas_Brazil_integration_LULC_10m_Sentinel2.py)
   - Spatial Filter
