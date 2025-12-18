@@ -1,0 +1,11 @@
+# Mosaic script for countries
+- Landsat
+  - [**Integration**](https://github.com/mapbiomas/brazil-integration-toolkit/blob/main/mapbiomas-brazil-integration-Landsat.js)
+  - Spatial Filter
+  - Temporal Filter
+  - Add Alertas
+- Sentinel
+  - Integration
+  - Spatial Filter
+  - Temporal Filter
+  - Add Alertas
