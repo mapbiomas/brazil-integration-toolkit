@@ -1,10 +1,10 @@
-# Mosaic script for countries
-- Landsat
+# Brazil Integration LULC script
+- LULC - 30m Landsat
   - [**Integration**](https://github.com/mapbiomas/brazil-integration-toolkit/blob/main/mapbiomas-brazil-integration-Landsat.js)
   - Spatial Filter
   - Temporal Filter
   - Add Alertas
-- Sentinel
+- LULC - 10m Sentinel2
   - Integration
   - Spatial Filter
   - Temporal Filter
