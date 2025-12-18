@@ -1,11 +1,11 @@
 # Brazil Integration LULC script
 - LULC - 30m Landsat
-  - [**Integration**](https://github.com/mapbiomas/brazil-integration-toolkit/blob/main/mapbiomas-brazil-integration-Landsat.js)
+  - [**Integration**](https://github.com/mapbiomas/brazil-integration-toolkit/blob/main/mapbiomas_Brazil_integration_LULC_30m_Landsat.py))
   - Spatial Filter
   - Temporal Filter
   - Add Alertas
 - LULC - 10m Sentinel2
-  - Integration
+  - [**Integration**](https://github.com/mapbiomas/brazil-integration-toolkit/blob/main/mapbiomas_Brazil_integration_LULC_10m_Sentinel2.py)
   - Spatial Filter
   - Temporal Filter
   - Add Alertas
