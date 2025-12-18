@@ -1,6 +1,6 @@
 /**
  * @name
- *      MapBiomas Integration Toolkit 
+ *      MapBiomas Integration Landsat 
  * 
  * @description
  *  
