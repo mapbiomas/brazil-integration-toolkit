@@ -26,15 +26,10 @@ Integration based on **Landsat imagery (30 m spatial resolution)**, covering the
 
 ---
 
-### 🛰️ LULC – 10 m (Sentinel-2)
+### 🛰️ LULC – 10 m (col. 3 - beta)
 
-Integration based on **Sentinel-2 imagery (10 m spatial resolution)**, focused on higher-resolution mapping for recent years.
 
-- **Integration**
-  
-  JavaScript (Google Earth Engine) script for generating integrated LULC maps from Sentinel-2 classifications.
-  
-  👉 [`mapbiomas_brazil_integration_lulc_10m_sentinel_2.js`](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2.js)
+- **step01 - Integration** :  [`integration`](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2.js)
 
 - **Filters**
   
