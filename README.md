@@ -28,14 +28,11 @@ Integration based on **Landsat imagery (30 m spatial resolution)**, covering the
 
 ### 🛰️ LULC – 10 m (col. 3 - beta)
 
+- [**step01 - Integration**](./10m_col3/step01_mapbiomas_brazil_integration_LULC_10m_col3.js)
+- [**step02 - 1st Spatial Filter**](./10m_col3/step02_mapbiomas_brazil_spatial_filter.js)
+- [**step03 - Filters**](./10m_col3/step03_mapbiomas_brazil_filters.py)
+- [**step04 - 2nd Spatial Filter**](./10m_col3/step04_mabiomas_brazil_2nd_spatial_filter.js)
 
-- [**step01 - Integration**](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2.js)
-
-- **Filters**
-  
-  Python script that applies spatial and temporal filters to the integrated results, ensuring consistency and noise reduction.
-  
-  👉 [`mapbiomas_brazil_integration_lulc_10m_sentinel_2_filters.py`](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2_filters.py)
 
 ---
 
