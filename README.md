@@ -29,7 +29,7 @@ Integration based on **Landsat imagery (30 m spatial resolution)**, covering the
 ### 🛰️ LULC – 10 m (col. 3 - beta)
 
 
-- **step01 - Integration** :  [`integration`](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2.js)
+- [**step01 - Integration**](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2.js)
 
 - **Filters**
   
