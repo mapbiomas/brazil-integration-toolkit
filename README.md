@@ -15,14 +15,14 @@ Integration based on **Landsat imagery (30 m spatial resolution)**, covering the
   
   JavaScript (Google Earth Engine) script responsible for generating the integrated LULC maps.
   
-  👉 [`mapbiomas_brazil_integration_lulc_30m_landsat.js`](./mapbiomas_brazil_integration_lulc_30m_landsat.js)
+  👉 [`mapbiomas_brazil_integration_lulc_30m_landsat.js`](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat.js)
 
 
 - **Filters**
   
   Python script that applies spatial and temporal filters to the integrated results, ensuring consistency and noise reduction.
   
-  👉 [`mapbiomas_brazil_integration_lulc_30m_landsat_filters.py`](./mapbiomas_brazil_integration_lulc_30m_landsat_filters.py)
+  👉 [`mapbiomas_brazil_integration_lulc_30m_landsat_filters.py`](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat_filters.py)
 
 ---
 
@@ -34,13 +34,13 @@ Integration based on **Sentinel-2 imagery (10 m spatial resolution)**, focused o
   
   JavaScript (Google Earth Engine) script for generating integrated LULC maps from Sentinel-2 classifications.
   
-  👉 [`mapbiomas_brazil_integration_lulc_10m_sentinel_2.js`](./mapbiomas_brazil_integration_lulc_10m_sentinel_2.js)
+  👉 [`mapbiomas_brazil_integration_lulc_10m_sentinel_2.js`](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2.js)
 
 - **Filters**
   
   Python script that applies spatial and temporal filters to the integrated results, ensuring consistency and noise reduction.
   
-  👉 [`mapbiomas_brazil_integration_lulc_10m_sentinel_2_filters.py`](./mapbiomas_brazil_integration_lulc_10m_sentinel_2_filters.py)
+  👉 [`mapbiomas_brazil_integration_lulc_10m_sentinel_2_filters.py`](./10m_col2/mapbiomas_brazil_integration_lulc_10m_sentinel_2_filters.py)
 
 ---
 
