@@ -7,22 +7,12 @@ The scripts are responsible for **integrating annual LULC classifications and ap
 
 ## Available Integrations
 
-### 🛰️ LULC – 30 m (Landsat)
+### 🛰️ LULC – 30 m (col. 10.1)
 
 Integration based on **Landsat imagery (30 m spatial resolution)**, covering the full historical series.
 
-- **Integration**
-  
-  JavaScript (Google Earth Engine) script responsible for generating the integrated LULC maps.
-  
-  👉 [`mapbiomas_brazil_integration_lulc_30m_landsat.js`](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat.js)
-
-
-- **Filters**
-  
-  Python script that applies spatial and temporal filters to the integrated results, ensuring consistency and noise reduction.
-  
-  👉 [`mapbiomas_brazil_integration_lulc_30m_landsat_filters.py`](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat_filters.py)
+- [**Integration**](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat.js)
+- [**Filters**](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat_filters.py)
 
 ---
 
