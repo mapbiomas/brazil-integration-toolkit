@@ -7,32 +7,19 @@ The scripts are responsible for **integrating annual LULC classifications and ap
 
 ## Available Integrations
 
-### 🛰️ LULC – 30 m (col. 10.1)
+### 🛰️ LULC – 30 m (col. 11)
 
 Integration based on **Landsat imagery (30 m spatial resolution)**, covering the full historical series.
 
-- [**Integration**](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat.js)
-- [**Filters**](./30m_col10.1/mapbiomas_brazil_integration_lulc_30m_landsat_filters.py)
-
 ---
 
-### 🛰️ LULC – 10 m (col. 3 - beta)
-
-- [**step01 - Integration**](./10m_col3/step01_mapbiomas_brazil_integration_LULC_10m_col3.js)
-- [**step02 - 1st Spatial Filter**](./10m_col3/step02_mapbiomas_brazil_spatial_filter.js)
-- [**step03 - Filters**](./10m_col3/step03_mapbiomas_brazil_filters.py)
-- [**step04 - 2nd Spatial Filter**](./10m_col3/step04_mabiomas_brazil_2nd_spatial_filter.js)
-
+### 🛰️ LULC – 10 m (col. 4)
 
 ---
 
 ## Notes
 
 - All scripts follow **MapBiomas Brazil methodological guidelines**.
-- Integration outputs are designed to be compatible with downstream modules such as:
-  - transitions
-  - deforestation
-  - secondary vegetation
 - Filtering steps are modular and can be adapted by biome, time period, or collection version.
 
 ---
